@@ -1,4 +1,4 @@
-Olá, eu sou Rogério Rodrigues da Costa
+Olá, eu sou Rogério Costa
 
 Profissional em transição para a área de Tecnologia com foco em Análise de Dados, Qualidade de Dados, QA e IA Aplicada à Validação de Processos.
 
