@@ -2,7 +2,7 @@ Olá, eu sou Rogério Costa
 
 Profissional em transição para a área de Tecnologia com foco em Análise de Dados, Qualidade de Dados, QA e IA Aplicada à Validação de Processos.
 
-Após 22 anos atuando no setor financeiro com análise de risco, validação documental, compliance e processos operacionais, estou desenvolvendo soluções práticas que unem conhecimento de negócio, pensamento analítico e tecnologia.
+Após 20 anos atuando no setor financeiro com análise de risco, validação documental, compliance e processos operacionais, estou desenvolvendo soluções práticas que unem conhecimento de negócio, pensamento analítico e tecnologia.
 
 Foco Atual
 Python para Análise de Dados
